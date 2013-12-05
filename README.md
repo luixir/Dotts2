@@ -1,7 +1,7 @@
 Dotts
 =====
 
-
+This game is not finished as it contain some bugs, I will try to fix it when I'm free.
 
 Fork, clone to local and open .sln file.
 
@@ -19,8 +19,9 @@ Here are some TODO list
 - [] Timer when the game starts. Which the value will be used as highscore in the game.
 - if you think of something useful feel free to write it down here.
 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Game reference:
 http://www.sinuousgame.com/
-
-Ball coliision:
+Ball coliision.
 http://stackoverflow.com/questions/345838/ball-to-ball-collision-detection-and-handling?rq=1
