@@ -1,7 +1,11 @@
 Dotts
-=====
+=========================
 
 This game is not finished as it contain some bugs, I will try to fix it when I'm free.
+
+Known Bugs
+==========================
+1. Program crash when game finish. I think it has some problem with thread.
 
 Fork, clone to local and open .sln file.
 
